@@ -14,5 +14,12 @@ This project is a simple and responsive survey form created using HTML. It is de
 1. Open `index.html` in your web browser.
 2. Fill out the form and submit.
 
+## Contact
+
+If you have any questions or feedback, feel free to reach out:
+
+- **Email:** [toorpushivani@gmail.com](mailto:toorpushivani@gmail.com)
+
 ## License
-This project is open-source under the [MIT License](LICENSE).
+
+This project is **free to use** and does not contain any license.
